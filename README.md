@@ -1,6 +1,5 @@
-- 👋 Hi, I’m David Light
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently working in FinTech
+- 👀 Iinterested in DevOps
+- 🌱 Currently working in FinTech
 - 📫 [LinkedIn](https://www.linkedin.com/in/dtlight/)
 
 <!---
