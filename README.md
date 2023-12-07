@@ -1,5 +1,5 @@
 - 👀 Iinterested in DevOps
-- 🌱 Currently working in FinTech
+- I've written a bit about myself here: davidlight.io/aboutme
 - 📫 [LinkedIn](https://www.linkedin.com/in/dtlight/)
 
 <!---
