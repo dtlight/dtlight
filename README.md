@@ -1,5 +1,5 @@
 - 👀 Iinterested in DevOps
-- I've written a bit about myself here: [davidlight.io](https://www.davidlight.io/aboutme)
+- 🌐 I've written a bit about myself here: [davidlight.io](https://www.davidlight.io/aboutme)
 - 📫 [LinkedIn](https://www.linkedin.com/in/dtlight/)
 
 <!---
