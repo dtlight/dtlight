@@ -12,4 +12,3 @@ I'm interested in different programming languages and tech stacks but at present
 * AWS
 * Python
 
-(https://holopin.me/dtlight)](https://holopin.io/@dtlight)
